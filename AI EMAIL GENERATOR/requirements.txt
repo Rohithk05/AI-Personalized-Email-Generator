@@ -1,0 +1,12 @@
+streamlit
+transformers
+google-generativeai
+python-dotenv
+python-multipart
+uvicorn
+fastapi
+beautifulsoup4
+requests
+streamlit-option-menu
+pyttsx3
+googletrans
